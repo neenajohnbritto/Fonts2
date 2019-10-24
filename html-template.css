@@ -1,0 +1,42 @@
+body{
+  background-color: grey;
+}
+
+h1,h3,h4{
+ 
+  color: magenta;
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+  background-color: mediumaquamarine;
+}
+
+
+
+
+
+.para1{
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 30px;
+  color: red;
+  letter-spacing: 3px;
+}
+
+.para2{
+  font-family: 'Pacifico', cursive;
+  font-size: 30px;
+  font-weight: normal;
+  line-height: 30px;
+  color: blue;
+  letter-spacing: 3px;
+}
+
+.para3{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 30px;
+  color: purple;
+  letter-spacing: 10px;
+}
